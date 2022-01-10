@@ -2,6 +2,14 @@
 
 Web page: [eitfamily.wordpress.com ](https://eitfamily.wordpress.com/) *（#待更替）*
 
+## 目录
+
+本项目收录的内容见 [收录内容]() *(#空链接)*
+
+为了方便查看，本站所有文档都用markdown格式呈现。
+
+## 前言
+
 我们来自**浙江越秀东部理工数据科学与传播学院**，一个目前只有两届学生的新学院。
 
 新学院，什么都是新的，什么都是第一次。第一次接触陌生的领域，第一次上全英语的课程，第一次挂科……
@@ -21,12 +29,6 @@ Web page: [eitfamily.wordpress.com ](https://eitfamily.wordpress.com/) *（#待�
 若要下载单个文件夹，复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可。
 
 若有任何侵权内容，请在issues下指出，非常感谢。
-
-## 目录
-
-本项目收录的内容见 [收录内容]() *(#空链接)*
-
-本项目大部分课程的参考书目见 [参考书目]() *(#空链接)*
 
 ## 贡献
 
