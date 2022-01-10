@@ -14,17 +14,17 @@ Web page: [eitfamily.wordpress.com ](https://eitfamily.wordpress.com/) *（#待�
 
 新学院，什么都是新的，什么都是第一次。第一次接触陌生的领域，第一次上全英语的课程，第一次挂科……
 
-这一路跌跌撞撞留下来的经验和收集来的讯息，对于经历过的人来说可能不再需要，而对于还没经历过的人来说，有些弯路则没必要重蹈覆辙，用无谓的努力自我感动。
+这一路跌跌撞撞留下来的经验和收集来的讯息，对于经历过的人来说可能不再需要，而对于还没经历过的人来说，有些弯路则没必要重蹈覆辙，更不必用无谓的努力自我感动。
 
 根据MIS管理信息系统第11章的「知识价值链」理论，知识的价值会随着它的收集、储存、分享、应用而提高。如果把东部理工想象成一个学习共同体（organization），那么知识价值链同样适用。
 
-于是，参考[浙江大学相关项目](https://github.com/QSCTech/zju-icicles)和[清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT#%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E8%AF%BE%E7%A8%8B%E6%94%BB%E7%95%A5)，EIT-Family创立了本课程攻略项目。
+于是，参考[浙江大学相关项目](https://github.com/QSCTech/zju-icicles)和[清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT#%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E8%AF%BE%E7%A8%8B%E6%94%BB%E7%95%A5)，EIT-Family创立了这份课程攻略。
 
 这是越秀人的精神。从40年前萧山街斜桥弄９号做英语培训的两间教室，一代代越秀人踏踏实实地积淀，成就了如今两个校区的**全日制本科院校**。中华上下五千年的深厚历史底蕴，也都是从第一天开始，一秒一秒向前积累而来。那么我们，为什么不可以是几十年后的人回过头看到的先驱？
 
 知识共享，长远来看，利己益人。
 
-感谢对本项目贡献的同学：[a2littleprince](https://github.com/a2littleprince),（#待续）……以及屏幕前的您！
+感谢对本项目贡献的家人们：[a2littleprince](https://github.com/a2littleprince),（#待续）……以及屏幕前的您！
 
 若要下载单个文件夹，复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可。
 
