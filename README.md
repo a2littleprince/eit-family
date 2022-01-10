@@ -4,7 +4,7 @@ Web page: [eitfamily.wordpress.com ](https://eitfamily.wordpress.com/) *（#待�
 
 ## 目录
 
-本项目收录的内容见 [收录内容]() *(#空链接)*
+本项目收录的内容见 [总目录]() *(#空链接)*
 
 为了方便查看，本站所有文档都用markdown格式呈现。
 
@@ -14,9 +14,9 @@ Web page: [eitfamily.wordpress.com ](https://eitfamily.wordpress.com/) *（#待�
 
 新学院，什么都是新的，什么都是第一次。第一次接触陌生的领域，第一次上全英语的课程，第一次挂科……
 
-这一路跌跌撞撞留下来的经验和收集来的讯息，对于经历过的人来说可能不再需要，而对于还没经历过的人来说，有些弯路则没必要重蹈覆辙，更不必用无谓的努力自我感动。
+这一路跌跌撞撞留下来的经验和收集来的讯息，对于经历过的人来说可能不再需要，而对于还没经历过的人来说，有些弯路则没必要重蹈覆辙，更不必用盲目的努力来自我感动。
 
-根据MIS管理信息系统第11章的「知识价值链」理论，知识的价值会随着它的收集、储存、分享、应用而提高。如果把东部理工想象成一个学习共同体（organization），那么知识价值链同样适用。
+根据MIS管理信息系统第11章的「知识价值链」理论，**知识的价值会随着它的收集、储存、分享、应用而提高**。如果把东部理工想象成一个学习共同体（organization），那么「知识价值链」在此同样适用。
 
 于是，参考[浙江大学相关项目](https://github.com/QSCTech/zju-icicles)和[清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT#%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E8%AF%BE%E7%A8%8B%E6%94%BB%E7%95%A5)，EIT-Family创立了这份课程攻略。
 
@@ -24,7 +24,7 @@ Web page: [eitfamily.wordpress.com ](https://eitfamily.wordpress.com/) *（#待�
 
 知识共享，长远来看，利己益人。
 
-感谢对本项目贡献的家人们：[a2littleprince](https://github.com/a2littleprince),（#待续）……以及屏幕前的您！
+感谢对本项目贡献的家人们：[cyining-cn](https://github.com/cyining-cn),（#待续）……以及屏幕前的您！
 
 若要下载单个文件夹，复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可。
 
@@ -50,6 +50,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 其他部分的版权归属于其各自的作者。
 
-#### **！！资料仅供参考，请自己判断其适用性！！**
+### **！！资料仅供参考，请自己判断其适用性！！**
 
 你能看到，老师也必定能看到。作业抄袭和考试作弊等学术不端行为，后果自负。
+# eit-family
