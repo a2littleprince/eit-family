@@ -4,7 +4,7 @@ Web page: [eitfamily.wordpress.com ](https://eitfamily.wordpress.com/) *（#待�
 
 ## 目录
 
-本项目收录的内容见 [总目录]() 
+总目录内容见 [课表检索](https://github.com/cyining-cn/eit-family/blob/main/%E6%80%BB%E7%9B%AE%E5%BD%95.md)
 
 为了方便查看，本站所有文档都用markdown格式呈现。
 
