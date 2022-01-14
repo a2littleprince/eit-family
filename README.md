@@ -1,6 +1,6 @@
 # ZYU-EIT 课程攻略
 
-Web page: [eitfamily.wordpress.com ](https://eitfamily.wordpress.com/) *（#待更替）*
+Web page: [eitfamily.wordpress.com ](https://eitfamily.wordpress.com/) 
 
 ## 目录
 
@@ -54,4 +54,4 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 你能看到，老师也必定能看到。作业抄袭和考试作弊等学术不端行为，后果自负。
 
-# 
+
